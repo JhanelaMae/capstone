@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Primary brand color -->
+    <color android:name="colorPrimary" tools:ignore="ExtraText">#6200EE</color>
+    <!-- Darker variant of the primary brand color -->
+    <color android:name="colorPrimaryDark">#3700B3</color>
+    <!-- Color for UI controls such as checkboxes and text fields -->
+    <color android:name="colorAccent">#03DAC5</color>
+    <!-- Text color for primary content -->
+    <color android:name="textColorPrimary">#FFFFFF</color>
+    <!-- Background color -->
+    <color android:name="backgroundColor">#F5F5F5</color>
+</selector>
